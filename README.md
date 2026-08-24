@@ -1,4 +1,4 @@
-#Who am i?
+# Who am i?
 
 I'm an Informatics Engineering student interested in software development, artificial intelligence, and emerging technologies. I enjoy building projects, exploring new ideas, and continuously improving my technical skills.
 
