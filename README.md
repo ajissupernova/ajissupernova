@@ -1,24 +1,19 @@
-# Hello there, I'm Aziz 👋
+# Hello there, im Aziz 👋
 
-I'm an Informatics Engineering student interested in software development,
-artificial intelligence, and exploring how technology can solve real-world problems.
+Im an Informatics Engineering student interested in software development,
+artificial intelligence, and technology.
 
-### 🛠️ Technologies
+## Currenty Learning :
 
-- Python
-- Flask
-- SQL
-- REST API
-- Git & GitHub
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
 
-### 📚 Currently Learning
+## 🌐 Connect With Me
 
-- Artificial Intelligence
-- Machine Learning
-- Backend Development
-- Software Engineering
-
-### 📫 Contact
-
-- GitHub: [@ajissupernova](https://github.com/ajissupernova)
-- Email: yaelahziz@gmail.com
+<a href="https://instagram.com/abd.jiss">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
