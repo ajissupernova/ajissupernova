@@ -1,7 +1,9 @@
 # Hello there, im Aziz 👋
 
-Im an Informatics Engineering student interested in software development,
-artificial intelligence, and technology.
+👋 Hello.
+I'm an Informatics Engineering student interested in software development, artificial intelligence, and emerging technologies. I enjoy building projects, exploring new ideas, and continuously improving my technical skills.
+
+I focus on writing clean and maintainable code while learning how technology can be used to create practical and meaningful solutions.
 
 ## Currenty Learning :
 
