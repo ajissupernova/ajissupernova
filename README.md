@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello there, I'm Aziz 👋
 
-<!--
-**ajissupernova/ajissupernova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Informatics Engineering student interested in software development,
+artificial intelligence, and exploring how technology can solve real-world problems.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Flask
+- SQL
+- REST API
+- Git & GitHub
+
+### 📚 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Backend Development
+- Software Engineering
+
+### 📫 Contact
+
+- GitHub: [@ajissupernova](https://github.com/ajissupernova)
+- Email: yaelahziz@gmail.com
