@@ -4,7 +4,7 @@ I'm an Informatics Engineering student interested in software development, artif
 
 I focus on writing clean and maintainable code while learning how technology can be used to create practical and meaningful solutions.
 
-## Currently Learning
+## Currently Learning :
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -17,7 +17,7 @@ I focus on writing clean and maintainable code while learning how technology can
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 </p>
 
-**Tools & Technologies**
+**Tools**
 - Cisco Packet Tracer
 - Postman
 - VS Code
