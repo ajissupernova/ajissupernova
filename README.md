@@ -77,21 +77,3 @@ I'm especially interested in growing my skills in:
   </a>
 </p>
 
----
-
-## ⚡ A Little More About Me
-
-```text
-💻 Building        → ShopFellas.id
-🧠 Learning        → Software Engineering & AI
-🌐 Exploring       → Full-Stack Development
-🛠️ Improving       → Clean & Maintainable Code
-🚀 Goal            → Build useful real-world software
-🎧 Outside Coding  → Music & Movies
-```
-
----
-
-### Thanks for visiting my profile! 👋
-
-I'm always learning, building, and looking for new things to explore.
